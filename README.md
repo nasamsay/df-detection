@@ -49,7 +49,7 @@ FaceNet achieved the **highest accuracy**, effectively distinguishing real vs fa
 | **FaceNet**     | **~92%** |
 
 
-> 📌 Note: Results are based on our validation set. Actual performance may vary depending on the dataset and preprocessing pipeline.
+> 📌 Note: Results are based on our test set. Actual performance may vary depending on the dataset and preprocessing pipeline.
 
 ---
 
