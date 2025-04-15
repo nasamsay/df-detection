@@ -1,6 +1,6 @@
 # Deepfake Detection using Transfer Learning
 
-
+![Banner](Picture1.png)
 
 ## 📌 Project Overview
 
