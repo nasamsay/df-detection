@@ -55,7 +55,7 @@ FaceNet achieved the **highest accuracy**, effectively distinguishing real vs fa
 
 ## 🗃️ Dataset
 
-We used real and fake facial images obtained from Kaggle. We used a subset from the data; 16000 train, 800 validation, 4000 test images. Images were preprocessed to a fixed sized of 128 by 128 pixels.
+We used real and fake facial images obtained from [Kaggle](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images). We used a subset from the data; 16000 train, 800 validation, 4000 test images. Images were preprocessed to a fixed sized of 128 by 128 pixels.
 
 ---
 
